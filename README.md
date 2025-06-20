@@ -1,5 +1,5 @@
 # Overview
-A unified algorithmic approach to solve games like sufoku, Solitaire,  and minesweeper.
+A unified algorithmic approach to solve games like Sudoku, Solitaire,  and minesweeper.
 # Setup Instructions
 
   ## 1. Clone the repository
